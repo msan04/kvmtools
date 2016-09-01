@@ -5,5 +5,7 @@ kvmtools depends on python-libvirt
 
 
 ex:
+
 session = Session(host)
+
 domain = Domain(session)
